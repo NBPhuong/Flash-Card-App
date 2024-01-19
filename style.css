@@ -1,0 +1,43 @@
+.title{
+    text-align: center;
+    font-family: 'Lemon', serif;
+    font-size: 30px;
+}
+.term{
+    border: 5px solid rgb(7, 7, 7);
+    text-align: center;
+    border-radius: 15px;
+    padding: 20px;
+    width: 45%;
+    margin: auto;
+    margin-top: 100px;
+}
+.definition{
+    border: 5px solid rgb(5, 5, 5);
+    text-align: center;
+    border-radius: 15px;
+    padding: 20px;
+    width: 45%;
+    margin: auto;
+    margin-top: 100px;
+    display: none;
+}
+.btn{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+button{
+    color: white;
+    background-color: rgb(10, 240, 60);
+    border-radius: 15px;
+    border: 1px solid black;
+    padding: 20px;
+    margin-right: 10px;
+}
+button:hover{
+    transform: scale(1.1);
+}
+.next{
+    background-color: blue;
+}
